@@ -1,0 +1,9 @@
+body{
+  margin: 0;
+}
+
+.section {
+  background: #333333;
+  height: 40px;
+  width: 100%;
+}
